@@ -2,7 +2,7 @@
 #
 
 #Define WebLogic binary path
-WL_HOME=/bcaibank/bin/wls/12.2.1.3/oracle_common
+WL_HOME=/oracle/bin/wls/12.2.1.3/oracle_common
 
 #Define script location path
 SCRIPT_LOC="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
